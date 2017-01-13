@@ -1,4 +1,4 @@
-# twitter-hastag-bot
+# twitter-hashtag-bot
 
 0.npm install twitter 
   npm install fs
